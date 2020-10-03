@@ -1,4 +1,4 @@
-# asciifps
+# moonmaze
 
 ![Moon over the maze](./moon.png)
 
